@@ -2,7 +2,7 @@
 
 Repository cu tutoriale și code samples de Python 3
 
-### PyQRCode
+### [PyQRCode](https://github.com/moustacios/python3-tutorials/tree/main/pyqrcode#pyqrcode)
  Citește din input-ul consolei numele, prenumele și numărul de telefon al utilizatorului și generează
  un cod QR corespunzător transpunerii informațiilor în formatul vCard
 
