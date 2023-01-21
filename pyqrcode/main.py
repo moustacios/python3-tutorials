@@ -49,11 +49,15 @@ if __name__ == '__main__':
 
     # Tuplu cu lista de întrebări (input)
     questions = ("Nume: ", "Prenume: ", "Tel: ")
+
     # Listă cu răspunsuri (input)
     answers = []
 
     for q in questions:
+        # Cere și citește linie (răspuns) din consolă
         reply = input(q)
+
+        # Adaugă element nou în listă
         answers.append(q + " " + reply)
 
     # Generază vCard pe baza răspunsurilor primite
