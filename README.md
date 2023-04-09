@@ -1,4 +1,4 @@
-# Python3 Tutorials
+# <img height="62" src="logo.svg" title="Python logo" width="62"/> Python3 Tutorials
 
 Repository cu tutoriale și code samples de Python 3
 
